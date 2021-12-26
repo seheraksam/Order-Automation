@@ -1,0 +1,9 @@
+C:\Users\Oem\Desktop\txt\txt\obj\Debug\txt.12.csprojAssemblyReference.cache
+C:\Users\Oem\Desktop\txt\txt\obj\Debug\txt.GirisEkrani.resources
+C:\Users\Oem\Desktop\txt\txt\obj\Debug\txt.MusteriEkrani.resources
+C:\Users\Oem\Desktop\txt\txt\obj\Debug\txt.Properties.Resources.resources
+C:\Users\Oem\Desktop\txt\txt\obj\Debug\txt.Sepet.resources
+C:\Users\Oem\Desktop\txt\txt\obj\Debug\txt.12.csproj.GenerateResource.cache
+C:\Users\Oem\Desktop\txt\txt\obj\Debug\txt.12.csproj.CoreCompileInputs.cache
+C:\Users\Oem\Desktop\txt\txt\obj\Debug\txt.exe
+C:\Users\Oem\Desktop\txt\txt\obj\Debug\txt.pdb
